@@ -1,0 +1,37 @@
+GIT Commands
+
+git clone (link) - clona o link do repositório do github para meu pc
+
+cd (pasta) se move diretamente para pasta escolhida
+
+ls - lista os arquivos contidos na pasta
+
+git status -mostra o status atual do repositório
+
+git add . - adiciona todos os arquivos
+
+git commit -m "Mensagem" - Commita todos os arquivos para que eles fiquem prontos para serem empurrados para o servidor remoto.
+
+git push origin main - Envia todos os arquivos para núvem.a
+
+=================================================================
+
+Comandos do terminal Windows:
+
+dir - mostra todos os diretórios contidos no local atual
+
+cd / - leva para uma pasta específica, navega entre as pastas
+
+cd .. - Retrocede uma etapa/pasta
+
+csl - limpa o terminal
+
+echo - insere um nome ao terminal ou a pasta, para adicionar na pasta é necessario colocar ex: C:\nome_da_pasta>echo (palavra) > palavra.txt
+
+mkdir (nome da pasta) - cria uma pasta
+
+rmdir - remove o repositório e todos os arquivos que contém nele. Exemplo:
+
+C:\>rmdir workspace /S /Q
+
+del - remove os arquivos contidos dentro de um repositório
